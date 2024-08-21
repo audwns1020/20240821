@@ -1,0 +1,6 @@
+5
+apple
+banana
+peach
+tomato
+potato
